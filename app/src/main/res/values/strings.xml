@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PressHawk</string>
+    <string name="sample_desc">The bitcoin price could attempt a runup towards $6,800 in the near-term, according to one popular stock trading indicator. Bitcoin on the Verge of a Bump-And-Run Reversal? Dubbed a Bump-and-Run Reversal (BARR), the pattern includes three crucial phases before…</string>
+    <string name="gathering_text">Gathering headlines...</string>
+    <string name="spinner_title">Select A Category</string>
+</resources>
