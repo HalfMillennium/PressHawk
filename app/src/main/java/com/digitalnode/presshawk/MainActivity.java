@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     private ProgressBar progressBar;
     private TextView gatheringText;
 
-    private final String NEWS_API_KEY = "7b9a5818d54749d4b91fcb7639bd3278";
+    private final String NEWS_API_KEY = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

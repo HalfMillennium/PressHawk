@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mlsdev.animatedrv:library:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-2.0.0.aar/6b60bcce91c060f7582a2a7c92aac49e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-2.0.0.aar/6b60bcce91c060f7582a2a7c92aac49e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mlsdev.animatedrv/library/2.0.0/c289e3262787f438095ac7668da719b636a88745/library-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
